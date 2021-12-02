@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Jeremy Borgman
+	email = borgman.jeremy@pm.me
+# Please adapt and uncomment the following lines:
+#	name = Jeremy Borgman
+#	email = borgman.jeremy@pm.me
+[init]
+	defaultBranch = main
