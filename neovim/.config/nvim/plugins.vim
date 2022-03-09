@@ -7,6 +7,9 @@ call plug#begin("~/.config/nvim/plugged")
     Plug 'nvim-telescope/telescope.nvim'
     Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 
+
+    Plug 'hrsh7th/vim-vsnip'
+
     " Completion
     Plug 'hrsh7th/nvim-cmp'
     
