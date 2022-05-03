@@ -12,6 +12,6 @@ settings:
     global: https://google.com
   url.searchengines:
     global:
-      DEFAULT: https://google.com/?q={}
+      DEFAULT: https://google.com/search?q={}
   url.start_pages:
     global: https://google.com
