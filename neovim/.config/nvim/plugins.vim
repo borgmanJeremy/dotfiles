@@ -25,11 +25,6 @@ call plug#begin("~/.config/nvim/plugged")
     Plug 'rust-lang/rust.vim'
     Plug 'simrat39/rust-tools.nvim'
 
-    " Debugging (needs plenary from above as well)
-    Plug 'mfussenegger/nvim-dap'
-    Plug 'rcarriga/nvim-dap-ui'
-    Plug 'nvim-telescope/telescope-dap.nvim'
-
     " Must be last 
     Plug 'ryanoasis/vim-devicons'
 call plug#end()

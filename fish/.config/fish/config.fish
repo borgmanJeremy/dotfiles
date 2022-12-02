@@ -5,4 +5,5 @@ if status is-interactive
     gpgconf --launch gpg-agent
 
     starship init fish | source
+    direnv hook fish | source
 end
